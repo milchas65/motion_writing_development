@@ -1,0 +1,28 @@
+227 A.D.3d 530 (2024)
+211 N.Y.S.3d 326
+2024 NY Slip Op 02760
+Taxi Tours Inc., Plaintiff/Counterclaim Defendant-Respondent,
+v.
+Go New York Tours Inc., Defendant/Counterclaim Plaintiff-Appellant, and
+Open Top Sightseeing *531 USA, Inc., et al., Counterclaim Defendants-Respondents, et al., Counterclaim Defendants.
+Index No. 653012/19. Appeal No. 2315. Case No. 2023-05944.
+Appellate Division of the Supreme Court of New York, First Department.
+
+Decided May 16, 2024.
+Appeal from the Supreme Court, New York County (Jennifer G. Schecter, J.), entered on or about August 1, 2023.
+
+Barton LLP, New York (Maurice N. Ross of counsel), for appellant.
+
+Olshan Frome Wolosky LLP, New York (Natasha G. Menell of counsel), for Open Top Sightseeing USA, Inc., Taxi Tours, Inc., Go City North America, LLC, and Go City, Inc., respondents.
+
+Concur—Webber, J.P., Kern, Shulman, Rodriguez, Pitt-Burke, JJ.
+
+Order, Supreme Court, New York County (Jennifer G. Schecter, J.), entered on or about August 1, 2023, which granted the motion of counterclaim defendants Open Top Sightseeing USA, Inc., Taxi Tours, Inc., Go City North America, LLC, and Go City Inc. (collectively, Taxi Tours Defendants) to preclude the expert report and testimony of the expert of defendant/counterclaim plaintiff Go New York Tours, Inc. (Go New York) and denied Go New York's cross-motion for leave to conduct additional nonparty discovery, unanimously affirmed, without costs.
+
+The court providently exercised its discretion in excluding the expert disclosure, precluding the expert's testimony, and denying leave to reopen discovery. Go New York failed to comply with Rules of the Commercial Division of the Supreme Court (22 NYCRR 202.70[g]) rule 13(c), which provides that any "expert disclosure must be accompanied by a written report, prepared and signed by the witness," which "must contain ... (B) the data or other information considered by the witness in forming the opinion(s)." Go New York did not provide the data forming the basis for its expert's opinions, which was gathered in connection with Go New York's allegations of false online reviews. The omission of the reviews prejudiced the Taxi Tours defendants' ability to respond to the expert's opinions (see Pope Invs. II LLC v Belmont Partners, LLC, 214 AD3d 484 [1st Dept 2023]).
+
+Go New York's reliance on the federal law standard, in which noncompliance would not lead to exclusion of expert disclosure where "the non-disclosing party sustains its burden of showing that the failure to disclose was either substantially justified or harmless" (Williams v County of Orange, 2005 WL 6001507, *3, 2005 US Dist LEXIS 46051, *8-9 [SD NY, Dec. 13, 2005, No. 03 Civ 5182(LMS)]), is unavailing. The absence of the data cannot be considered harmless given the prejudice involved and Go New York has not shown that its nondisclosure was substantially justified. Go New York has provided no excuse for failing to preserve copies of the review data purportedly substantiating its expert's opinions. Go New York has not presented any efforts it took to back up the data before inquiring about the matter on May 11, 2023, weeks after providing the expert disclosure on April 27, 2023.
+
+Go New York's argument that its failure to provide the data *532 was substantially justified in light of the pandemic is unpreserved, and we decline to review it because it is not a purely legal argument apparent on the face of the record but depends on facts not brought to Taxi Tours Defendants' attention on the motion (see Straughter v Thor Shore Parkway Devs., LLC, 199 AD3d 434, 435 [1st Dept 2021]).
+
+The court also providently exercised its discretion in denying leave to Go New York to reopen discovery to subpoena nonparty review sites. The review data had been gathered years earlier by a nonparty entity and Go New York should have known about its rule 13(c) obligation to supply that data while submitting the expert disclosure.
